@@ -149,7 +149,7 @@ export default function Home() {
                 onClick={(e) => {
                   notifyMe(e);
                 }}
-                class="bg-[#8f7ecd] hover:bg-white hover:text-black border  text-white font-normal py-[11px] px-4 shadow-2xl  border-[#5e4ba3]  rounded-xl  "
+                className="bg-[#8f7ecd] hover:bg-white hover:text-black border  text-white font-normal py-[11px] px-4 shadow-2xl  border-[#5e4ba3]  rounded-xl  "
               >
                 Notify Me
               </button>
