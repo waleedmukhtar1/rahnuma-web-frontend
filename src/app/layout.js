@@ -1,8 +1,8 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import {  Open_Sans } from "next/font/google";
+import {  Poppins } from "next/font/google";
 
-const inter = Open_Sans({ subsets: ["latin"], weight: "400" });
+const inter = Poppins({ subsets: ["latin"], weight: "700" });
 
 export const metadata = {
   title: "Rahnuma",
