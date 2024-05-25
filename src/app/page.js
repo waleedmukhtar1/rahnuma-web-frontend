@@ -87,7 +87,7 @@ export default function Home() {
 
                    <div className="flex flex-col z-30  md:mb-0 md:mt-24 mx-6 md:mx-20 ">
                           <h1 className="text-3xl md:text-[60px] text-[#5E4BA3] z-40 mt-4">We are</h1>
-                          <h1 className=" text-3xl md:text-[60px] text-[#5E4BA3] z-40 md:mt-10">Coming Soon .....</h1>
+                          <h1 className=" text-3xl md:text-[60px] text-[#5E4BA3] z-40 md:mt-10">Coming Soon...</h1>
                           <h1 className="text-black sm:text-sm md:text-xl mt-4 md:mt-20 z-40">Get notified when we launch </h1>
                           <div className="flex flex-row items-center mt-2 w-auto  md:w-[600px]  z-40">
                           <div className="flex-grow z-40">

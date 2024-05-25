@@ -10,12 +10,12 @@ function Footer() {
         </div>
         <div className="flex flex-row gap-6 md:gap-4">
             <div>
-                <a onClick={()=>{window.open("https://www.instagram.com/tensorrgroup/")}}>
+                <a onClick={()=>{window.open("https://www.instagram.com/rahnuma.io")}}>
                  <Image src={icon2} className=" object-contain cursor-pointer z-40 h-4 w-4 md:h-8 md:w-8" />
                  </a>
             </div>
             <div>
-                 <a onClick={()=>{window.open("https://www.linkedin.com/company/tensorrbusiness/")}}>
+                 <a onClick={()=>{window.open("https://www.linkedin.com/company/rahnuma-io")}}>
                  <Image src={icon1} className=" object-contain cursor-pointer z-40 h-4 w-4 md:h-8 md:w-8" />
                  </a>
             </div>
